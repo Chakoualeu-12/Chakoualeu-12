@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chakoualeu-12
+- 👋 Hi, I’m @Chakoualeu Arthur-12
 - 👀 I’m interested by IT
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on web projects with bootstrap and nodejs 
