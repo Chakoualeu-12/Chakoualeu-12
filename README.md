@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chakoualeu Arthur
 - 👀 I’m interested by IT
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on web projects with bootstrap and nodejs 
+- 💞️ I’m looking to collaborate on web projects with bootstrap and nodejs, PHP, JS, JAVA et tout autres ... 
 - 📫 How to reach me arthurtotie@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: games
